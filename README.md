@@ -1,4 +1,4 @@
-# web-nodejs-sample
+# JavaScript and ES6 Challenges - Do you know JavaScript?
 
 ExpressJS Sample Application
 
